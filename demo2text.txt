@@ -1,2 +1,3 @@
 demo2 first line
 branch1 update
+branch2 update
